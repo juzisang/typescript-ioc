@@ -1,4 +1,4 @@
-import { CUSTOM } from "./inject";
+import { CUSTOM } from './metadatakeys'
 import { store } from './store'
 
 interface Constructor<T> {
