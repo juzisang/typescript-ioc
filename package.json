@@ -1,0 +1,17 @@
+{
+  "name": "typescript-ioc",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "author": "juzisang <juziexe@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
